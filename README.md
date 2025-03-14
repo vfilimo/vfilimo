@@ -93,8 +93,8 @@ A comprehensive task management application featuring Google Calendar and Dropbo
 ## GitHub Analytics ⚙️
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vfilimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfilimo&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 ## Let's Connect 🌐
@@ -106,5 +106,5 @@ A comprehensive task management application featuring Google Calendar and Dropbo
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vfilimo&color=blue&style=flat" />
 </div>
